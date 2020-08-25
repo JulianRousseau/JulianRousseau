@@ -1,16 +1,24 @@
+# Julian Rousseau 
+
 ### Hi there 👋
 
 <!--
-**JulianRousseau/JulianRousseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📖 I’m in my third year of career studying software engineering 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 I’m fluent in portugues and good level of english
+
+- 🔭 I’m currently working with JavaScript, css, html
+
+- 🌱 I’m currently learning React and React Native
+
+- 📫 How to reach me:
+- LinkedIn → https://www.linkedin.com/in/julian-rousseau/
+- WhatsApp → https://wa.link/bsim1r
+- Instagrm → https://www.instagram.com/julianrousseau1/
+- Mail     → julianrousseau@hotmail.com
+
 -->
+
+
+
