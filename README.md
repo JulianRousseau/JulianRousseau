@@ -1,6 +1,6 @@
 # Julian Rousseau 
 
-### Hi there 👋
+### about me 
 
 <!--
 
