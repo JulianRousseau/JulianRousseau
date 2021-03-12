@@ -6,7 +6,7 @@
 
 ### 💬 I’m fluent in portugues and good level of english
 
-### 🔭 I’m currently working with JavaScript, css, html
+### 🔭 I’m currently developing web apps with JavaScript, CSS, HTML
 
 ### :dart: I’m currently learning React and React Native
 
